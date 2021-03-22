@@ -27,20 +27,20 @@ public class TablePartD{
 	// DON' CHANGE THE 'System.out.println(xxx)' OUTPUT PART
 	// OR YOU WON'T RECEIVE POINTS FROM THE GRADER 
 	
-	String hero = ???;
-	String power = ???;
-	String name = ???;
-	String xp = ???;
-	String color = ???;
+	String hero = "???";
+	String power = "???";
+	String name = "???";
+	String xp = "???";
+	String color = "???";
 	System.out.println("hero: "+hero+", power: "+power+", name: "+name+", xp: "+xp+", color: "+color);
 
-	hero = ???;
-	color = ???;
+	hero = "???";
+	color = "???";
 	System.out.println("hero: "+hero+", color: "+color);
 
-	hero = ???;
-	name = ???;
-	color = ???;
+	hero = "???";
+	name = "???";
+	color = "???";
 	System.out.println("hero: "+hero+", name: "+name+", color: "+color); 
    }
 }

@@ -24,7 +24,7 @@ public class TablePartE{
 	// TODO      
 	// DON' CHANGE THE 'System.out.println(xxx)' OUTPUT PART
 	// OR YOU WON'T RECEIVE POINTS FROM THE GRADER
-	ResultScanner scanner = ???;
+	ResultScanner scanner = null; // ???;
 	for (Result result = scanner.next(); result != null; result = scanner.next())
 		System.out.println(result);
    }

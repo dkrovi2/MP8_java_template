@@ -21,11 +21,14 @@ public class TablePartB{
 
    public static void main(String[] args) throws IOException {
 
-   	HTableDescriptor[] tableDescriptor = ???;
-	//TODO    
+   	HTableDescriptor[] tableDescriptor = null; //???;
+	//TODO
+ /*
 	for(???){
          System.out.println(tableDescriptor[i].getNameAsString());
      }
+
+  */
    }
 }
 
