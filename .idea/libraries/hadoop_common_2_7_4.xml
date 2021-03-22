@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="hadoop-common-2.7.4">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/libraries/hbase-1.4.13/lib/hadoop-common-2.7.4.jar!/" />
+      <root url="jar://$USER_HOME$/libraries/hbase-1.4.13/lib/hbase-client-1.4.13.jar!/" />
+      <root url="jar://$USER_HOME$/libraries/hbase-1.4.13/lib/hbase-common-1.4.13.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
