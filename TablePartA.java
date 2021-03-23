@@ -43,6 +43,7 @@ public class TablePartA{
       // Instantiating HbaseAdmin class
       try (HBaseAdmin admin = new HBaseAdmin(con)) {
          createPowersTable(admin);
+         createFoodTable(admin);
       }
    }
 }
